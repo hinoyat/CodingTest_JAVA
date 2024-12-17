@@ -1,6 +1,6 @@
 # 🖥️ Coding_Test_JAVA
 
-# 📚 JAVA Algorithm Study Progress 
+# 📚 Algorithm Study Progress
 ---
 ## 🌟 Current Status
 ```
@@ -25,6 +25,14 @@
 ```
 
 ### 🌳 DFS  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 🎲 Backtracking  `0 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
@@ -57,6 +65,14 @@
 ```
 
 ### ⛓️ Topology Sort  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 🎨 Graph Coloring  `0 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
@@ -107,6 +123,22 @@
 🥉 Bronze   | 0
 ```
 
+### 📊 Segment Tree  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 📝 Trie  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
 ---
 
 ## 🧮 Dynamic Programming
@@ -127,6 +159,22 @@
 ```
 
 ### 🔢 Bit DP  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 📈 LIS  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 🎒 Knapsack  `0 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
@@ -161,6 +209,22 @@
 🥉 Bronze   | 0
 ```
 
+### 🎲 Probability  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 📊 Linear Algebra  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
 ---
 
 ## 💻 Implementation
@@ -181,6 +245,14 @@
 ```
 
 ### 🎯 Ad-hoc  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 🔍 Parsing  `0 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
@@ -215,10 +287,72 @@
 🥉 Bronze   | 0
 ```
 
+### 🎲 Parametric Search  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
 ---
 
 ## 🔪 Greedy
 ### 💡 Basic Greedy  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### ⏰ Scheduling  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+---
+
+## 🎲 Divide & Conquer
+### 🔄 Recursion  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 📊 Merge Sort Applications  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+---
+
+## 📈 Advanced
+### 🌊 Network Flow  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 💫 Convex Hull  `0 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 0
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
+
+### 🎯 KMP  `0 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
