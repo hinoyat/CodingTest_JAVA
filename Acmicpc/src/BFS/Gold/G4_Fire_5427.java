@@ -104,6 +104,8 @@ public class G4_Fire_5427 {
             }
 
             // 상근이 움직이기
+            int qSize = queue.size();
+            for (int q = 0; q < qSize; q++) {
             int[] now = queue.poll();
             int x = now[0];
             int y = now[1];
@@ -114,10 +116,11 @@ public class G4_Fire_5427 {
                 if (nX >= h || nY >= w || nX < 0 || nY < 0) {
                     return moved + 1;
                 }
-                if (nX >= 0 && nY >= 0 && nX < h && nY < w && building[nX][nY] != 1 && !visited[nX][nY]) {
+                if (nX >= 0 && nY >= 0 && nX < h && nY < w && building[nX][nY] == 0 && !visited[nX][nY]) {
                     queue.offer(new int[]{nX, nY, moved + 1});
                     visited[nX][nY] = true;
                 }
+            }
             }
 
         fireQueue = nFireQueue;
