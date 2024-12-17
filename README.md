@@ -1,4 +1,4 @@
-# 🖥️ Coding_Test_JAVA
+# 🖥️ CodingTest_JAVA
 
 # 📚 Algorithm Study Progress
 ---
