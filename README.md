@@ -4,12 +4,12 @@
 ---
 ## 🌟 Current Status
 ```
-📈 Total Problems Solved: 5
+📈 Total Problems Solved: 6
 ```
 ### 🏆 Problems By Difficulty
 ```
 👑 Platinum |  0
-🏆 Gold     |  3
+🏆 Gold     |  4
 🥈 Silver   |  2
 🥉 Bronze   |  0
 ```
@@ -185,7 +185,7 @@
 ---
 
 ## 📐 Math
-### 💫 Number Theory  `0 solved`
+### 💫 Number Theory  `1 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
@@ -201,10 +201,10 @@
 🥉 Bronze   | 0
 ```
 
-### 📏 Geometry  `0 solved`
+### 📏 Geometry  `1 solved`
 ```
 👑 Platinum | 0
-🏆 Gold     | 0
+🏆 Gold     | 1
 🥈 Silver   | 0
 🥉 Bronze   | 0
 ```
