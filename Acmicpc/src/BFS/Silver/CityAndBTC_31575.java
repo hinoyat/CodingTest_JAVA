@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class City_And_BTC_31575 {
+public class CityAndBTC_31575 {
     public static void main(String[] args) throws IOException {
        
         // 입력 받기
