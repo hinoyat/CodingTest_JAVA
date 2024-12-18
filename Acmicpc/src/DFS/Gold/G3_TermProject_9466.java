@@ -7,35 +7,56 @@ import java.util.StringTokenizer;
 
 public class G3_TermProject_9466 {
     static int[] students;
+    static boolean[] visited;    // 이번 탐색에서 방문한 노드
+    static boolean[] finished;   // 탐색이 완전히 끝난 노드
+    static int count;           // 팀을 이룬 학생 수
+
     public static void main(String[] args) throws IOException {
-        /*
-        * 학생들이(s1, s2, ..., sr)이라 할 때, r=1이고 s1이 s1을 선택하는 경우나, s1이 s2를 선택하고,
-        *  s2가 s3를 선택하고,..., sr-1이 sr을 선택하고,
-        * sr이 s1을 선택하는 경우에만 한 팀이 될 수 있다.
-        * */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int testCase = Integer.parseInt(br.readLine());
 
         for (int tc = 0; tc < testCase; tc++) {
             int N = Integer.parseInt(br.readLine());
+            N += 1;  // 1번부터 시작하므로 크기 1 증가
 
             StringTokenizer st = new StringTokenizer(br.readLine());
             students = new int[N];
+            visited = new boolean[N];
+            finished = new boolean[N];
+            count = 0;
 
-            for (int n = 0; n < N; n++) {
-                int student = Integer.parseInt(st.nextToken());
-                students[n] = student;
+            for (int n = 1; n < N; n++) {
+                students[n] = Integer.parseInt(st.nextToken());
             }
+
+
+            for (int i = 1; i < N; i++) {
+                if (!visited[i]) {
+                    dfs(i);
+                }
+            }
+
+            System.out.println(N - 1 - count);
         }
     }
 
-    public static int termProject(int[] students, int N) {
-        int number = 0;
+    public static void dfs(int now) {
+        visited[now] = true;
 
-        boolean[] visited = new boolean[N];
+        int next = students[now];
 
+        if (!visited[next]) {
+            dfs(next);
+        } else if (!finished[next]) {
+            // 이미 방문했지만 아직 탐색이 끝나지 않은 노드 = 사이클 발견
+            // 사이클에 포함된 학생 수 세기
+            for (int i = next; i != now; i = students[i]) {
+                count++;
+            }
+            count++;  // 현재 노드도 포함
+        }
 
-
-        return number;
+        // 현재 노드 탐색 완료 처리
+        finished[now] = true;
     }
 }
