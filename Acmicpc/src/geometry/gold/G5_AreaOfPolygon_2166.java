@@ -1,4 +1,4 @@
-package Geometry.Gold;
+package geometry.gold;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package DFS.Gold;
+package dfs.gold;
 
 import java.io.BufferedReader;
 import java.io.IOException;

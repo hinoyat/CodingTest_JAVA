@@ -16,7 +16,7 @@
 ---
 
 ## 🎯 Graph
-### 🌎 BFS  `5 solved`
+### 🌎 bfs  `5 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 3
@@ -24,7 +24,7 @@
 🥉 Bronze   | 0
 ```
 
-### 🌳 DFS  `1 solved`
+### 🌳 dfs  `1 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 1
@@ -201,7 +201,7 @@
 🥉 Bronze   | 0
 ```
 
-### 📏 Geometry  `1 solved`
+### 📏 geometry  `1 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 1
