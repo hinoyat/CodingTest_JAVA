@@ -4,13 +4,13 @@
 ---
 ## 🌟 Current Status
 ```
-📈 Total Problems Solved: 7
+📈 Total Problems Solved: 8
 ```
 ### 🏆 Problems By Difficulty
 ```
 👑 Platinum |  0
 🏆 Gold     |  5
-🥈 Silver   |  2
+🥈 Silver   |  3
 🥉 Bronze   |  0
 ```
 ---
@@ -32,11 +32,11 @@
 🥉 Bronze   | 0
 ```
 
-### 🎲 Backtracking  `0 solved`
+### 🎲 Backtracking  `1 solved`
 ```
 👑 Platinum | 0
 🏆 Gold     | 0
-🥈 Silver   | 0
+🥈 Silver   | 1
 🥉 Bronze   | 0
 ```
 
