@@ -5,6 +5,7 @@
 ## 🌟 Current Status
 ```
 📈 Total Problems Solved: 10
+😱 Last update: 2024.12.22
 ```
 ### 🏆 Problems By Difficulty
 ```
