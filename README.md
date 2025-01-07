@@ -4,13 +4,13 @@
 ---
 ## 🌟 Current Status
 ```
-📈 Total Problems Solved: 10
-😱 Last update: 2024.12.22
+📈 Total Problems Solved: 11
+😱 Last update: 2025.01.07
 ```
 ### 🏆 Problems By Difficulty
 ```
 👑 Platinum |  0
-🏆 Gold     |  6
+🏆 Gold     |  7
 🥈 Silver   |  3
 🥉 Bronze   |  0
 ```
@@ -295,9 +295,14 @@
 🥈 Silver   | 0
 🥉 Bronze   | 0
 ```
-
----
-
+## 🔍 Bruteforcing
+### 💡 Basic Bruteforcing  `1 solved`
+```
+👑 Platinum | 0
+🏆 Gold     | 1
+🥈 Silver   | 0
+🥉 Bronze   | 0
+```
 ## 🔪 Greedy
 ### 💡 Basic Greedy  `0 solved`
 ```
