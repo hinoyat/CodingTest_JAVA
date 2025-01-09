@@ -4,8 +4,8 @@
 ---
 ## 🌟 Current Status
 ```
-📈 Total Problems Solved: 11
-😱 Last update: 2025.01.07
+📈 Total Problems Solved: 12
+😱 Last update: 2025.01.09
 ```
 ### 🏆 Problems By Difficulty
 ```
@@ -264,10 +264,10 @@
 ---
 
 ## 🔍 Sorting & Searching
-### 🎯 Binary Search  `0 solved`
+### 🎯 Binary Search  `1 solved`
 ```
 👑 Platinum | 0
-🏆 Gold     | 0
+🏆 Gold     | 1
 🥈 Silver   | 0
 🥉 Bronze   | 0
 ```
