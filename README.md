@@ -1,367 +1,101 @@
-# 🖥️ CodingTest_JAVA
+# 🌟 알고리즘 문제 현황
 
-# 📚 Algorithm Study Progress
----
-## 🌟 Current Status
-```
-📈 Total Problems Solved: 13
-😱 Last update: 2025.01.09
-```
-### 🏆 Problems By Difficulty
-```
-👑 Platinum |  0
-🏆 Gold     |  10
-🥈 Silver   |  3
-🥉 Bronze   |  0
-```
----
 
-## 🎯 Graph
-### 🌎 bfs  `5 solved`
 ```
-👑 Platinum | 0
-🏆 Gold     | 3
-🥈 Silver   | 2
-🥉 Bronze   | 0
+Java 알고리즘 문제 해결 기록
 ```
 
-### 🌳 dfs  `1 solved`
 ```
-👑 Platinum | 0
-🏆 Gold     | 1
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🎲 Backtracking  `3 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 2
-🥈 Silver   | 1
-🥉 Bronze   | 0
-```
-
-### 🛣️ Dijkstra  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🗺️ Floyd-Warshall  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🌉 Minimum Spanning Tree  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### ⛓️ Topology Sort  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🎨 Graph Coloring  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+📈 총 해결: 14문제 | 마지막 업데이트: 2025.08.01
+🔵 Platinum: 0 | 🟡 Gold: 11 | ⚪ Silver: 3 | 🟤 Bronze: 0
 ```
 
 ---
 
-## 💾 Data Structure
-### 📚 Stack  `0 solved`
+## 📊 분야별 현황
+
+### 🌎 그래프 | 9 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+BFS: 5 (🟡3 ⚪2)
+DFS: 1 (🟡1)
+Backtracking: 3 (🟡2 ⚪1)
+최단경로: 0
+MST: 0
+위상정렬: 0
 ```
 
-### 🎯 Queue  `0 solved`
+### 📐 수학 | 2 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### ⭐ Priority Queue  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+Number Theory: 1 (⚪0)
+Geometry: 1 (🟡1)
+조합론: 0
+확률: 0
 ```
 
-### 🌲 Tree  `0 solved`
+### 🔍 탐색/정렬 | 2 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🤝 Union Find  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+Binary Search: 2 (🟡2)
+Two Pointer: 0
+정렬: 0
+매개변수 탐색: 0
 ```
 
-### 📊 Segment Tree  `0 solved`
+### 💡 완전탐색 | 1 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+기본 완전탐색: 1 (🟡1)
+비트마스킹: 0
 ```
 
-### 📝 Trie  `0 solved`
+### 💾 자료구조 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
----
-
-## 🧮 Dynamic Programming
-### 📝 Basic DP  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+Stack: 0
+Queue: 0
+Tree: 0
+Union Find: 0
+Priority Queue: 0
 ```
 
-### 🌳 Tree DP  `0 solved`
+### ⚡ 고급 자료구조 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🔢 Bit DP  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+세그먼트 트리: 0
+펜윅 트리: 0
+스플레이 트리: 0
 ```
 
-### 📈 LIS  `0 solved`
+### 🧮 동적계획법 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🎒 Knapsack  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+기본 DP: 0
+Tree DP: 0
+Bit DP: 0
+LIS: 0
+Knapsack: 0
 ```
 
----
-
-## 📐 Math
-### 💫 Number Theory  `1 solved`
+### 📝 문자열 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+KMP: 0
+라빈카프: 0
+접미사 배열: 0
+Trie: 0
 ```
 
-### 🔢 Combinatorics  `0 solved`
+### 💻 구현 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 📏 geometry  `1 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 1
-🥈 Silver   | 0
-🥉 Bronze   | 0
+Simulation: 0
+String Processing: 0
+Ad-hoc: 0
+Parsing: 0
 ```
 
-### 🎲 Probability  `0 solved`
+### 🔪 그리디 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+기본 Greedy: 0
+Scheduling: 0
 ```
 
-### 📊 Linear Algebra  `0 solved`
+### 🚀 고급 알고리즘 | 0 solved
 ```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
----
-
-## 💻 Implementation
-### 🎮 Simulation  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 📝 String Processing  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🎯 Ad-hoc  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🔍 Parsing  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
----
-
-## 🔍 Sorting & Searching
-### 🎯 Binary Search  `2 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 2
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 👆 Two Pointer  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 📊 Various Sorting  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🎲 Parametric Search  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-## 🔍 Bruteforcing
-### 💡 Basic Bruteforcing  `1 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 1
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-## 🔪 Greedy
-### 💡 Basic Greedy  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### ⏰ Scheduling  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
----
-
-## 🎲 Divide & Conquer
-### 🔄 Recursion  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 📊 Merge Sort Applications  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
----
-
-## 📈 Advanced
-### 🌊 Network Flow  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 💫 Convex Hull  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
-```
-
-### 🎯 KMP  `0 solved`
-```
-👑 Platinum | 0
-🏆 Gold     | 0
-🥈 Silver   | 0
-🥉 Bronze   | 0
+Network Flow: 0
+Convex Hull: 0
+FFT: 0
 ```
